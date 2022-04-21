@@ -10,7 +10,7 @@
 ![Tryhackme](https://img.shields.io/badge/-TryHackMe-1a2332?style=flat-square&logo=Tryhackme)
 ![HackTheBox](https://img.shields.io/badge/-Hackthebox-1a2332?style=flat-square&logo=Hackthebox)
 ![Python](https://img.shields.io/badge/-Python-1a2332?style=flat-square&logo=python&logoColor=yellow)
-![Linux](https://img.shields.io/badge/-Python-1a2332?style=flat-square&logo=kali-linux)
+![Kali](https://img.shields.io/badge/-Kali_linux-1a2332?style=flat-square&logo=kali-linux)
 
 ![](https://github.com/fobblified/Fobblified/blob/main/pictures/Fobblified.png)
 
