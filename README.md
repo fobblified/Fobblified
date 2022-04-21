@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-1a2332?style=flat-square&logo=python&logoColor=yellow)
 ![Linux](https://img.shields.io/badge/-Python-1a2332?style=flat-square&logo=kali-linux)
 
-![](https://github.com/fobblified/Fobblified/pictures/Fobblified.png)
+![](https://github.com/fobblified/Fobblified/blob/main/pictures/Fobblified.png)
 
 ## Goals I want to achieve :trophy:
 - Top 100 of Tryhackme
