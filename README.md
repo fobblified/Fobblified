@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, my name is Fobblified :raised_hands:
 
-<!--
-**fobblified/Fobblified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :crossed_swords:I'm russian 19 years old junior Penetration Tester and CTF player :crossed_swords:
 
-Here are some ideas to get you started:
+- First-year undergraduate student in information security :bookmark_tabs:
+- Solving CTFs and writing writeps :shield:
+- Looking for my direction in pentest :dart:
+- Eventually I want to join the RedTeam :star2:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tryhackme](https://img.shields.io/badge/-TryHackMe-1a2332?style=flat-square&logo=Tryhackme)
+![HackTheBox](https://img.shields.io/badge/-Hackthebox-1a2332?style=flat-square&logo=Hackthebox)
+![Python](https://img.shields.io/badge/-Python-1a2332?style=flat-square&logo=python&logoColor=yellow)
+![Linux](https://img.shields.io/badge/-Python-1a2332?style=flat-square&logo=kali-linux)
+
+
+## Goals I want to achieve :trophy:
+- Top 100 of Tryhackme
+- Portswigger certification
+- Solve insane task on Hackthebox
