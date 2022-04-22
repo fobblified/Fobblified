@@ -5,7 +5,7 @@
 - First-year undergraduate student in information security :bookmark_tabs:
 - Solving CTFs and writing writeps :shield:
 - Looking for my direction in pentest :dart:
-- Eventually I want to join the RedTeam :star2:
+- Eventually I want to join the RedTeam :red_envelope:
 
 ![Tryhackme](https://img.shields.io/badge/-TryHackMe-1a2332?style=flat-square&logo=Tryhackme)
 ![HackTheBox](https://img.shields.io/badge/-Hackthebox-1a2332?style=flat-square&logo=Hackthebox)
