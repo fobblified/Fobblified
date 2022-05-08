@@ -6,6 +6,7 @@
 - Solving CTFs and writing writeps :shield:
 - Looking for my direction in pentest :dart:
 - Eventually I want to join the RedTeam :red_envelope:
+- My [Tryhackme profile](https://tryhackme.com/p/Fobblified) :gem:
 
 ![Tryhackme](https://img.shields.io/badge/-TryHackMe-1a2332?style=flat-square&logo=Tryhackme)
 ![HackTheBox](https://img.shields.io/badge/-Hackthebox-1a2332?style=flat-square&logo=Hackthebox)
