@@ -12,6 +12,8 @@
 ![HackTheBox](https://img.shields.io/badge/-Hackthebox-1a2332?style=flat-square&logo=Hackthebox)
 ![Python](https://img.shields.io/badge/-Python-1a2332?style=flat-square&logo=python&logoColor=yellow)
 ![Kali](https://img.shields.io/badge/-Kali_linux-1a2332?style=flat-square&logo=kali-linux)
+![GitHub watchers](https://img.shields.io/github/watchers/Fobblified/Fobblified?logo=Github&style=social)
+
 
 ![](https://github.com/fobblified/Fobblified/blob/main/Fobblified.png)
 
