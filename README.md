@@ -25,4 +25,6 @@
 
 ## :fire: Stats :fire:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fobblified&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fobblified&theme=chartreuse-dark	)](https://git.io/streak-stats)
+
