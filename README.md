@@ -16,6 +16,8 @@
 
 ![](https://github.com/fobblified/Fobblified/blob/main/Fobblified.png)
 
+![Wathers](https://komarev.com/ghpvc/?username=Fobblified&style=flat-square&color=1a2332)
+
 ## Goals I want to achieve :trophy:
 - Top 100 of Tryhackme :1st_place_medal:
 - Portswigger certification :tickets:
