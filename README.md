@@ -18,7 +18,11 @@
 
 ![Wathers](https://komarev.com/ghpvc/?username=Fobblified&style=flat-square&color=1a2332)
 
-## Goals I want to achieve :trophy:
+## :trophy: Goals I want to achieve :trophy:
 - Top 100 of Tryhackme :1st_place_medal:
 - Portswigger certification :tickets:
 - Solve insane task on Hackthebox :dagger:
+
+## :fire: Stats :fire:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fobblified&theme=chartreuse-dark	)](https://git.io/streak-stats)
