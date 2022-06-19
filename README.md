@@ -22,4 +22,4 @@
 - Solve insane task on Hackthebox :dagger:
 
 ## :fire: Stats :fire:
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fobblified&theme=chartreuse-dark	)](https://git.io/streak-stats)
