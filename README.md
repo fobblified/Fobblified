@@ -16,10 +16,10 @@
 
 ![](https://github.com/fobblified/Fobblified/blob/main/Fobblified.png)
 
-## :trophy: Goals I want to achieve :trophy:
+## :trophy:: Goals I want to achieve :trophy:
 - Top 100 of Tryhackme :1st_place_medal:
 - Portswigger certification :tickets:
 - Solve insane task on Hackthebox :dagger:
 
-## :fire: Stats :fire:
+## :fire:: Stats :fire::
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fobblified&theme=chartreuse-dark	)](https://git.io/streak-stats)
