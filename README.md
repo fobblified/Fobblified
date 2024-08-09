@@ -9,6 +9,7 @@
 - [HackTheBox profile](https://app.hackthebox.com/profile/190597) :dart:
 - HTB Certified Penetration Testing Specialist (HTB CPTS) :star:
 - HTB Certified Bug Bounty Hunter (HTB CBBH) :star:
+- Certified Red Team Operator (CRTO) :start:
 
 ![Tryhackme](https://img.shields.io/badge/-TryHackMe-1a2332?style=flat-square&logo=Tryhackme)
 ![HackTheBox](https://img.shields.io/badge/-Hackthebox-1a2332?style=flat-square&logo=Hackthebox)
