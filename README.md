@@ -1,6 +1,6 @@
-#  :raised_hands:: Hi there, my name is Fobblified :raised_hands::
+#  :raised_hands: Hi there, my name is Fobblified :raised_hands:
 
-## :crossed_swords:: I'm russian 20 years old junior Penetration Tester and CTF player :crossed_swords::
+## :crossed_swords: I'm russian 20 years old junior Penetration Tester and CTF player :crossed_swords:
 
 - Third-year undergraduate student in information security :bookmark_tabs:
 - Solving CTFs and writing writeps :shield:
@@ -20,5 +20,5 @@
 
 ![](https://github.com/fobblified/Fobblified/blob/main/Fobblified.png)
 
-## :fire:: Stats :fire::
+## :fire: Stats :fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fobblified&theme=chartreuse-dark	)](https://git.io/streak-stats)
